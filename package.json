@@ -1,0 +1,16 @@
+{
+  "name": "alan-mclik-package",
+  "version": "1.0.0",
+  "description": "This is my first npm package.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "keywords": [
+    "Alankar Awadhiya",
+    "Alan",
+    "Alan Awadhiya"
+  ],
+  "author": "Alankar Awadhiya",
+  "license": "ISC"
+}
